@@ -7,7 +7,7 @@ Currently building production grade AI systems using LangChain, LangGraph, and P
 - [Interview Prep RAG](https://github.com/somu5796/interview-prep-rag) — RAG pipeline with 4 retrieval strategies + LangSmith observability
 - [AI Video Generator](https://github.com/somu5796/ai-video-generator) — Multi-agent pipeline using LangGraph + Manim + ElevenLabs
 - [AutoML Recommender](https://github.com/somu5796/auto-ml-recommender) — Automated ML evaluation and reporting framework
-- [AI Chatbot](https://github.com/somu5796/my-ai-chatbot) — Multi step workflow AI chatbot with memory and streaming using SDK's
+- [AI Chatbot](https://github.com/somu5796/my-ai-chatbot) — Conversational AI with memory and streaming using SDKs. Built with Streamlit.
 
 ## 🛠️ Stack
 Python • LangChain • LangGraph • CrewAI • ChromaDB • Streamlit • Java • Spring Boot • Microservices  
